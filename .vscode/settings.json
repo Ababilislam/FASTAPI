@@ -1,0 +1,19 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "python.analysis.inlayHints.pytestParameters": false,
+    "python.analysis.inlayHints.variableTypes": false,
+    "python.autoComplete.extraPaths": [],
+    "python.analysis.gotoDefinitionInStringLiteral": false,
+    "python.analysis.aiCodeActions": {
+        "implementAbstractClasses": false
+    },
+    "python.analysis.typeEvaluation.strictParameterNoneValue": false,
+    "editor.defaultFormatter": "ms-python.vscode-pylance",
+    "typescript.reportStyleChecksAsWarnings": true,
+    "python.analysis.reportExtraTelemetry": false
+}
